@@ -59,8 +59,7 @@ Users select how they feel *right now* and receive an immediate tool.
 
 > “Through gentle guidance, you’ll check in with how you feel, identify what state your body is in (fight, flight, freeze, or fawn), and be shown the right tool to meet yourself where you are.”
 
-![Calm App Example](<img width="5226" height="2778" alt="Frame 301" src="https://github.com/user-attachments/assets/a3ef9c72-5f7e-4251-b7ef-d52e47f29aca" />
-) <img width="5226" height="2778" alt="Frame 301" src="https://github.com/user-attachments/assets/3e9bc02c-9def-4fc2-b561-a27a33597f2a" />
+ <img width="5226" height="2778" alt="Frame 301" src="https://github.com/user-attachments/assets/3e9bc02c-9def-4fc2-b561-a27a33597f2a" />
 
 
 These visual prototypes introduced:
