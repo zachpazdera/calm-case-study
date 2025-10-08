@@ -59,7 +59,8 @@ Users select how they feel *right now* and receive an immediate tool.
 
 > “Through gentle guidance, you’ll check in with how you feel, identify what state your body is in (fight, flight, freeze, or fawn), and be shown the right tool to meet yourself where you are.”
 
-![Calm App Example](https://www.zacharypazdera.com/calm)
+![Calm App Example](<img width="5226" height="2778" alt="Frame 301" src="https://github.com/user-attachments/assets/a3ef9c72-5f7e-4251-b7ef-d52e47f29aca" />
+)
 
 These visual prototypes introduced:
 - Plain language for nervous system states  
