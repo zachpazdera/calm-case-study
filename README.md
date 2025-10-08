@@ -106,4 +106,4 @@ These visual prototypes introduced:
 ## ✍️ Author  
 **Zachary Pazdera**  
 Product Manager & Holistic Systems Designer  
-[🌐 Portfolio](https://zacharypazdera.com) • [💼 LinkedIn](https://linkedin.com/in/zachpazdera) 
+[🌐 Portfolio](https://zacharypazdera.com) • [💼 LinkedIn](https://linkedin.com/in/zacharypazdera) 
